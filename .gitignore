@@ -1,0 +1,20 @@
+# Report con i dati della macchina: non vanno mai pubblicati
+report-registro.html
+registro-voci.csv
+
+# Dati generati dall'app
+*.csv
+*.reg
+*.log
+
+# Artefatti di compilazione
+*.exe
+*.pdb
+*.tmp
+bin/
+obj/
+.vs/
+
+# Strumenti e sistema
+.claude/
+Thumbs.db
